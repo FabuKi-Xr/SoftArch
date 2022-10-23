@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\coding\\github\\SoftArch\\Lab\\lib\\commons-csv-1.9.0.jar",
+        "d:\\coding\\github\\SoftArch\\Lab\\lib\\commons-lang3-3.12.0.jar",
+        "d:\\coding\\github\\SoftArch\\Lab\\lib\\json-simple-1.1.1.jar"
+    ]
+}
