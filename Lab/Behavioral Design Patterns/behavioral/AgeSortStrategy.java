@@ -1,4 +1,4 @@
-package edu.parinya.softarchdesign.behavioral2;
+package BE;
 
 import java.util.Comparator;
 import java.util.List;
