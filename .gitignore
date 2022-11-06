@@ -1,2 +1,4 @@
 .vscode/
 /Lab/**/*.json
+.idea
+out
