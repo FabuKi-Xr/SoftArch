@@ -1,4 +1,5 @@
 .vscode/
 /Lab/**/*.json
-.idea
-out
+.idea/
+out/
+*.iml
